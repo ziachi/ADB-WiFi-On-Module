@@ -148,7 +148,7 @@ After boot, the module should automatically:
 
 ## 📱 Method 1 — Magisk / KernelSU (Recommended)
 
-1. Download `adbwifi_v1_universal.zip`
+1. Download `ADB-WiFi-On-Module.zip`
 2. Open Magisk or KernelSU Manager
 3. Navigate to:
 
