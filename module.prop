@@ -1,0 +1,6 @@
+id=adbwifi
+name=ADB WiFi Always On
+version=v1.0
+versionCode=1
+author=ziachi
+description=Enables ADB over WiFi (port 5555) and USB debugging automatically on boot https://github.com/ziachi/ADB-WiFi-On-Module
